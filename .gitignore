@@ -1,0 +1,5 @@
+ckpts/
+wandb/
+*.out
+__pycache__
+
