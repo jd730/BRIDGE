@@ -134,7 +134,7 @@ If you use this code for your research, please cite our paper.
 ```
 @article{hwang2025learn,
       title={Learn Globally, Speak Locally: Bridging the Gaps in Multilingual Reasoning},
-      author={Hwang, Jaedong and Tanmay, Kumar and Seok-Jin, Lee and Agrawal, Ayush and Palangi, Hamid and Ayush, Kumar and Fiete, Ila R and Liang, Paul Pu},
+      author={Hwang, Jaedong and Tanmay, Kumar and Lee, Seok-Jin and Agrawal, Ayush and Palangi, Hamid and Ayush, Kumar and Fiete, Ila R and Liang, Paul Pu},
       journal={arXiv preprint arXiv:2507.05418},
       year={2025}
     }
